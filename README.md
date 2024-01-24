@@ -27,6 +27,10 @@ Users should be able to:
 
 ## My process
 
+### Links
+- [Link to project](https://github.com/jslcoding/Testimonial_Grid)
+- [Link to live site](https://jslcoding.github.io/Testimonial_Grid/)
+
 ### Built with
 
 - Semantic HTML5 markup
